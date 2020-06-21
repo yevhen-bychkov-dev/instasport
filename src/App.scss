@@ -1,0 +1,55 @@
+img {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  max-width: 200px;
+  padding-right: 20px;
+  padding-left: 20px;
+  width: 100%;
+}
+
+button {
+  background: transparent;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  transition: background-color 0.3s ease-in-out;
+
+  &:hover {
+    background-color: grey;
+    color: white;
+  }
+
+  &.active {
+    outline: none;
+    background-color: grey;
+    color: white;
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+
+}
