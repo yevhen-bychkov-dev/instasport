@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/instasport/static/css/main.b239e866.chunk.css",
+    "main.js": "/instasport/static/js/main.0af19f66.chunk.js",
+    "main.js.map": "/instasport/static/js/main.0af19f66.chunk.js.map",
+    "runtime-main.js": "/instasport/static/js/runtime-main.a29f23fe.js",
+    "runtime-main.js.map": "/instasport/static/js/runtime-main.a29f23fe.js.map",
+    "static/js/2.06f05f14.chunk.js": "/instasport/static/js/2.06f05f14.chunk.js",
+    "static/js/2.06f05f14.chunk.js.map": "/instasport/static/js/2.06f05f14.chunk.js.map",
+    "index.html": "/instasport/index.html",
+    "precache-manifest.c1301a1b53c3f148355905564fee09b9.js": "/instasport/precache-manifest.c1301a1b53c3f148355905564fee09b9.js",
+    "service-worker.js": "/instasport/service-worker.js",
+    "static/css/main.b239e866.chunk.css.map": "/instasport/static/css/main.b239e866.chunk.css.map",
+    "static/js/2.06f05f14.chunk.js.LICENSE.txt": "/instasport/static/js/2.06f05f14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a29f23fe.js",
+    "static/js/2.06f05f14.chunk.js",
+    "static/css/main.b239e866.chunk.css",
+    "static/js/main.0af19f66.chunk.js"
+  ]
+}
